@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/food.png);
+  }
+  
+  .logo {
+    font-family: 'Arial';
+  }
+  
+  .logo a {
+    color: rgb(247, 247, 247);
+  }
+  
+  .logo a:hover,
+  .logo a:active {
+    text-decoration: none;
+  }
